@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+My name is João Pedro Pereira, I am a Software Engineering student and I am fascinated about the tech area. Currently, I am improving my programming skills and trying to go deeper in the fundamentals, also learning systems architecture and computer networks to have a whole understanding of a software. 
+
 <!--
 **JoaoPedro-Pereira/JoaoPedro-Pereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
