@@ -12,9 +12,11 @@ I am a Software Engineering student and I am fascinated about the tech area. Cur
 
 <h3 align="left">Connect with me:</h3>
 
-<a href = "joaopedropereira17@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
-  <a href="www.linkedin.com/in/joaopedropereirasilva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<div>
+<a href = "joaopedropereira17@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="blank"></a>
+<a href="www.linkedin.com/in/joaopedropereirasilva/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
+</div>
 
 <!--
 **JoaoPedro-Pereira/JoaoPedro-Pereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
