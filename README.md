@@ -1,4 +1,4 @@
-## Hi there, I am João Pereira!👋
+## 👋 Hi there, I am João Pereira!
 
 <p align="left">
 I am a Software Engineering student and I am fascinated about the tech area. Currently, I am studyng, improving my programming skills and trying to go deeper in the fundamentals, also learning systems architecture and computer networks to have a whole understanding of a software. 
@@ -13,9 +13,9 @@ I am a Software Engineering student and I am fascinated about the tech area. Cur
 <h3 align="left">Connect with me:</h3>
 
 <a href="www.linkedin.com/in/joaopedropereirasilva/" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaopedropereirasilva/" alt="LinkedIn"/></a>
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
  <a href="joaopedropereira17@gmail.com" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=joaopedropereira17@gmail.com" alt="Gmail"/></a>
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/></a>
 
 <!--
 **JoaoPedro-Pereira/JoaoPedro-Pereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
