@@ -1,20 +1,20 @@
-## 👋 Hi there, I am João Pereira!
+## 👋🏼 Hi there, I am João Pereira!
 
 <p align="left">
-I am a Software Engineering student and I am fascinated about the tech area. Currently, I am studyng, improving my programming skills and trying to go deeper in the fundamentals, also learning systems architecture and computer networks to have a whole understanding of a software. 
+I am a Software Engineering student and I am fascinated about the tech area. Currently, I am studyng, improving my programming skills and trying to go deeper in the fundamentals, also learning systems architecture and computer networks to have a whole understanding of how to build a software. 
 <p>
-<img src="images/giphy-2.gif" alt="ilustration" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="images/giphy-2.gif" alt="ilustration" min-width="400px" max-width="380px" width="380px" align="right">
 
-## My Skills (still learning)
+## 💻 My Skills (still learning)
 
 [![My Skills](https://skillicons.dev/icons?i=java,js,nodejs,docker,linux,mysql,mongodb&theme=light)](https://skillicons.dev)
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">📩 Connect with me:</h3>
 
 <div>
-<a href = "joaopedropereira17@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="blank"></a>
-<a href="www.linkedin.com/in/joaopedropereirasilva/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href = "mailto:joaopedropereira17@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="blank"></a>
+<a href="https://www.linkedin.com/in/joaopedropereirasilva/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
 
