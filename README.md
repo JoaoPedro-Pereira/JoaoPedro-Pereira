@@ -7,12 +7,15 @@ I am a Software Engineering student and I am fascinated about the tech area. Cur
 
 ## My Skills (still learning)
 
-[![My Skills](https://skillicons.dev/icons?i=java,mysql,node.js,docker,linux,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,nodejs,docker,linux,mysql,mongodb&theme=light)](https://skillicons.dev)
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="seu link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+<a href="#" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaopedropereirasilva/" alt="LinkedIn"/></a>
+ <a href="#" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=joaopedropereira17@gmail.com" alt="Gmail"/></a>
 </p>
 
 <!--
