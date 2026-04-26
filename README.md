@@ -5,13 +5,10 @@ I am a Software Engineering student and I am fascinated about the tech area. Cur
 <p>
 <img src="images/giphy-2.gif" alt="ilustration" min-width="400px" max-width="400px" width="400px" align="right">
 
-## My Skills
+## My Skills (still learning)
 
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/></code>
-<code><img height="32" src="https://www.flaticon.com/free-icon/java_226777?term=java&page=1&position=2&origin=search&related_id=226777" alt="Java"/></code>
+[![My Skills](https://skillicons.dev/icons?i=java,mysql,node.js,docker,linux,mongodb)](https://skillicons.dev)
 
-https://www.flaticon.com/free-icon/java_226777?term=java&page=1&position=2&origin=search&related_id=226777
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
